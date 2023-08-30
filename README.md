@@ -33,7 +33,7 @@
                 </div>
         </div>
         <div class="home-sci">
-            <!-- <a href="#"><i class='bx bxl-facebook'></i></a> -->
+          #  <!-- <a href="#"><i class='bx bxl-facebook'></i></a> -->
             <a href="#"><i class='bx bxl-instagram' ></i></a>
             <!-- <a href="#"><i class='bx bxl-whatsapp' ></i></a> -->
             <a href="#"><i class='bx bxl-linkedin' ></i></a>
@@ -41,7 +41,6 @@
         </div>
         <span class="home-imgHover"></span>
     </section>
-
      <!-- section about -->
     <section class="about" id="about">
         <h2 class="heading">About <span>Me</span></h2>
@@ -61,11 +60,7 @@
                  </div>
                  </div>
     </section>
-
-
      <!-- section education -->
-
-
         <section class="education" id="education">
             <h2 class="heading">My <span>Journey</span></h2>
             <div class="education-row">
@@ -78,7 +73,6 @@
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, mollitia?</p>
                         </div>
                     </div>
-
                     <div class="education-box">
                         <div class="education-content">
                             <div class="year"> <i class='bx bxs-calendar'></i>2018-2020 </div>
@@ -93,9 +87,7 @@
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, mollitia?</p>
                         </div>
                     </div>
-
                 </div>
-
                 <div class="education-column">
                     <h3 class="title">Experience</h3>
                     <div class="education-box">
@@ -105,7 +97,6 @@
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, mollitia?</p>
                         </div>
                     </div>
-
                     <div class="education-box">
                         <div class="education-content">
                             <div class="year"> <i class='bx bxs-calendar'></i>2018-2020 </div>
@@ -120,11 +111,9 @@
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, mollitia?</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
-
         <!-- skill section -->
         <section class="skills" id="skills">
             <h2 class="heading">MY <span>Skills</span></h2>
@@ -137,7 +126,6 @@
                                 <h3>Html <span>90%</span></h3>
                                 <div class="bar"><span></span></div>
                             </div>
-                        
                              <div class="progress">
                                  <h3>CSS <span>70%</span></h3>
                                  <div class="bar"><span></span></div>
@@ -161,7 +149,6 @@
                         </div>
                     </div>
                 </div>
-               
                 <div class="skills-column">
                     <h3 class="title">Professional Skills</h3>
                     <div class="skills-box">
@@ -193,13 +180,9 @@
                     </div>
                     </div>
                 </div>
-            </div>
-            
+            </div> 
         </section>
-
-
         <!-- contact section -->
-
         <section class="contact" id="contact">
             <h2 class="heading">Contact <span>Me!</span></h2>
             <form action="#">
@@ -208,20 +191,16 @@
                         <input type="text" placeholder="Full Name" required>
                         <span class="focus"></span>
                     </div>
-
                     <div class="input-field">
                         <input type="Email" placeholder="Email" required>
                         <span class="focus"></span>
                     </div>
-                    
                 </div>
-
                 <div class="input-box">
                     <div class="input-field">
                         <input type="number" placeholder="Mobile Number" required>
                         <span class="focus"></span>
                     </div>
-
                     <div class="input-field">
                         <input type="text" placeholder="Email Subject" required>
                         <span class="focus"></span>
